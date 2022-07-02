@@ -3,7 +3,7 @@ A mod to change the title of your game to something like this:
 ![](a.png)  
 
 ## How to use it  
-Download the pak file in the release  
+Download the pak file in the [release](https://github.com/steve02081504/starbound-shit-title-mod/releases)  
 Place it in the mods folder  
 
 ## Why do you do this?  
